@@ -1,3 +1,3 @@
 Povestochka Fly.
 
-https://github.com/povestochka/povestochkafly
+https://gitlab.com/povestochka/povestochkafly
